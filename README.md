@@ -1,6 +1,6 @@
 **Purpose**
 
-This project consisted in determining If the emails were spam or ham, threw a predictive model based on natural language processing (NLP)
+This project consisted in determining If the emails were spam or not, threw a predictive model based on natural language processing (NLP)
 
 **Technologies:**
 
